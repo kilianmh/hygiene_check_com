@@ -11,6 +11,7 @@ email: youremailaddress@gmail.com
 description: The Jekyll version of the Phantom theme by HTML5 UP.
 baseurl: "/hygiene_check_com" # the subpath of your site, e.g. /blog
 url: "https://kilianmh.github.io" # the base hostname & protocol for your site
+# front-page-posts: "_posts"
 
 # Logo settings
 logo-image-url: images/20201106_stencil.png
