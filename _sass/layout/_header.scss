@@ -7,7 +7,7 @@
 /* Header */
 
 	#header {
-		@include padding(5em, 0, (3em, 0, -5em, 0));
+		@include padding( 0, 0, (3em, 0, -5em, 0));
 		background-color: yellow;
 		font-family: monospace;
 		.logo {
@@ -122,6 +122,7 @@
 			nav {
 				right: 0.5em;
 				top: 0.5em;
+				float: right;
 
 				ul {
 					li {
