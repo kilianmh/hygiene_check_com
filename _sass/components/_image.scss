@@ -57,6 +57,15 @@
 				width: 100%;
 			}
 
+			&.headpic {
+				display: inline;
+				width: 100#;
+
+				img {
+					width: 100%;
+				}
+			}
+
 			@include breakpoint(small) {
 				margin: 0 0 _size(element-margin) 0;
 			}
