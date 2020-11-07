@@ -7,7 +7,7 @@
 /* Header */
 
 	#header {
-		@include padding( 0, 0, (3em, 0, -5em, 0));
+		@include padding( 5em, 0, (3em, 0, -5em, 0));
 		background-color: yellow;
 		font-family: monospace;
 		.logo {
@@ -30,7 +30,7 @@
 				margin-right: 0.65em;
 
 				img {
-					display: block;
+					display: inline-block;
 					width: 2em;
 					height: 2em;
 				}
