@@ -8,7 +8,7 @@
 
 	#header {
 		@include padding(5em, 0, (3em, 0, -5em, 0));
-
+		background-color: yellow;
 		.logo {
 			display: block;
 			border-bottom: 0;
