@@ -16,6 +16,7 @@ url: "https://kilianmh.github.io" # the base hostname & protocol for your site
 # Logo settings
 logo-image-url: images/20201106_stencil.png
 font-awesome-icon-logo:
+featured-image: images/20201106_stencil.png
 
 # Social settings
 github_username: andrewbanchich
