@@ -21,6 +21,6 @@ Dabei handelt es sich erfahrungsgemäß um • Körperflüssigkeiten, z. B. Blut
 
 Arbeitsbereiche sind Bereiche, in denen Tätigkeiten mit biologischen Arbeitsstoffen durch­ geführt werden. Zum Arbeitsbereich können auch häusliche Bereiche zählen, z. B. Tätigkeits­bereiche von Pflegediensten in Privatwohnungen und beim betreuten Wohnen. 
 
-## Fachliche geeignete Personen
+## Fachliche geeignete Personen nach {§ 8 Absatz 5 Satz 3 BioStoffV}(https://www.gesetze-im-internet.de/biostoffv_2013/__8.html)
 
 Fachlich geeignet sind Personen, die aufgrund ihrer abgeschlossenen Ausbildung und Erfah­ rung Infektionsgefahren erkennen und Maßnahmen zu Ihrer Abwehr treffen können, z. B. Ärzte, Zahnärzte, Gesundheits- und Krankenpfleger, Medizinisch-technische Assistenten, Hebammen, Desinfektoren, Medizinische oder Zahnmedizinische Fachangestellte, Rettungs­ sanitäter und -assistenten und Altenpfleger.
